@@ -1,8 +1,0 @@
----
-name: oneday67
-version: 1
-...
-
-handlers:
-- url: /static/
-  static_path: application/static

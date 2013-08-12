@@ -1,1 +1,0 @@
-#!/bin/bashsvn st | awk '{if ( $1 == "?") { print $2}}' | xargs svn add#svn st | grep '^\?' | tr '^\?' ' ' | sed 's/[ ]*//' | sed 's/[ ]/\\ /g' | xargs svn add

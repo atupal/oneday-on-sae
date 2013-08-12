@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/oneday67/!svn/ver/19/1/requests/packages/urllib3
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/oneday67/!svn/ver/19/1/requests/packages/urllib3/__init__.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/oneday67/!svn/ver/19/1/requests/packages/urllib3/exceptions.py
+END
+poolmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/oneday67/!svn/ver/19/1/requests/packages/urllib3/poolmanager.py
+END
+filepost.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/oneday67/!svn/ver/19/1/requests/packages/urllib3/filepost.py
+END
+request.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/oneday67/!svn/ver/19/1/requests/packages/urllib3/request.py
+END
+connectionpool.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/oneday67/!svn/ver/19/1/requests/packages/urllib3/connectionpool.py
+END
+_collections.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/oneday67/!svn/ver/19/1/requests/packages/urllib3/_collections.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/oneday67/!svn/ver/19/1/requests/packages/urllib3/util.py
+END
+response.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/oneday67/!svn/ver/19/1/requests/packages/urllib3/response.py
+END

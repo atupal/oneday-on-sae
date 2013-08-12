@@ -1,0 +1,1630 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<html class="G_N">
+<head>
+<meta charset="UTF-8"/>
+<title>光谷美食-武汉-大众点评网</title>
+<script>document.documentElement.className=location.hash?'J_H':'';var G_rtop=+new Date,_gaq=[
+['_setAccount','UA-464026-1'],
+['_addOrganic','soso','w'],
+['_addOrganic','sogou','query'],
+['_addOrganic','yodao','q'],
+['_addOrganic','bing','q'],
+['_addOrganic','360','q'],
+['_addOrganic','gougou','search'],
+['_setDomainName', '.dianping.com'],
+['_setAllowHash', false]],dpga=function(key){_gaq.push(['_trackPageview', key||''])},pageTracker={_trackPageview:dpga},_hip=[
+['_setPageId', 70],
+['_setCityId', 16],
+['_setShopType', 0],
+['_setPVInitData', {p_render:+(new Date)-G_rtop,s_r_n:2546,module:'0_shopsearch_queryid',shops:'[{"s":8996649,"i":1},{"s":2013646,"i":2},{"s":4182066,"i":3},{"s":3656704,"i":4},{"s":8981691,"i":5},{"s":4277135,"i":6},{"s":3450088,"i":7},{"s":8961427,"i":8},{"s":5505744,"i":9},{"s":5771728,"i":10},{"s":1946332,"i":11},{"s":2799133,"i":12},{"s":6208477,"i":13},{"s":6357055,"i":14},{"s":568519,"i":15}]',hkw:4,action:'browse',s_kw:'\u5149\u8C37\u7F8E\u98DF',note:'711dfcc0-7465-45e4-9e68-cdbef485100a'}]
+];</script>
+<script>(function(n){var e;e="http://hls.dianping.com/jserror.gif",n.onerror=function(n,o,r){var i=encodeURIComponent,t=Date.now();(new Image).src=e+"?error="+i(n)+"&file="+i(o)+"&line="+i(r)+"&timestamp="+t}})(window);</script>
+<link rel="Shortcut Icon" href="http://i2.dpfile.com/s/res/favicon.5ff777c11d7833e57e01c9d192b7e427.ico" type="image/x-icon" />
+<link rel="stylesheet" href="http://i1.dpfile.com/s/c/app/main/base-old.min.d030f4448404302ba137205679dd725c.css" type="text/css" />
+<link rel="stylesheet" href="http://i2.dpfile.com/s/c/app/search/search.min.498e3f017ba0f798ba064d9e439a9b25.css" type="text/css" />
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="餐馆搜索" />
+    <link rel="alternate" href="/rss/search/16/0/0/0/光谷美食" type="application/rss+xml" title="RSS" />
+    
+
+</head>
+<body id="top">
+
+<div class="header-bar">
+	<div class="inner Fix">
+	<span class="tagline">爱生活，爱点评！</span>
+	<ul class="user-action hd-menu">
+		<li class="user-login first mi">
+			<a href="http://www.dianping.com/login" rel="nofollow"  onclick="pageTracker._trackPageview('dp_head_login_wuhan');"><span>请登录</span></a>
+		</li>
+		<li class="user-signup mi">
+			<a href="http://www.dianping.com/reg" rel="nofollow"  onclick="pageTracker._trackPageview('dp_head_reg_wuhan');"><span>快速注册</span></a>
+		</li>
+		<li class= "user-signup mi">
+			<a href="http://www.dianping.com/reservation/main/reserveSearch" target="_blank" rel="nofollow" onclick="pageTracker._trackPageview('dp_head_reserve_wuhan');"><span> 我的订座 </span></a>
+		</li>
+	</ul>
+		<ul class="quick-menu hd-menu">
+			<li class="first mi i-mobile"><a id="J_mobile-page" href="http://www.dianping.com/events/m/index.htm">手机版</a></li>
+			<li class="mi last"><a href="http://www.dianping.com/help" rel="nofollow"  onclick="pageTracker._trackPageview('dp_head_help_wuhan');">帮助</a></li>
+		</ul>
+		
+	</div>
+</div>
+<div class="header">
+	<a  onclick="pageTracker._trackPageview('dp_head_logo_wuhan');" title="大众点评网" href="http://www.dianping.com" class="logo">
+		<img alt="大众点评网" src="http://i3.dpfile.com/s/res/betalogo.3927ee6154a2e5294176fdda742b4e59.png">
+	</a>
+	<div class="location" id="G_loc-wrap">
+		<a href="http://www.dianping.com/citylist" id="G_loc" class="loc-btn"><span class="txt">武汉站</span></a>
+	</div>
+	<ul class="nav" style="margin-top:22px;">
+		<li  class="this"><a href="http://www.dianping.com"  onclick="pageTracker._trackPageview('dp_head_home_wuhan');"><strong>首页</strong></a></li>
+		<li  class="nav-tg"><a target="_blank"  onclick="pageTracker._trackPageview('dp_head_tuan_wuhan');" href="http://t.dianping.com/wuhan"><strong>团购</strong></a>
+		</li>
+			<li ><a href="http://s.dianping.com/event/wuhan"  onclick="pageTracker._trackPageview('dp_head_huodong_wuhan');"><strong>同城活动</strong></a></li>
+		<li ><a href="http://www.dianping.com/card/wuhan"  onclick="pageTracker._trackPageview('dp_head_card_wuhan');"><strong>会员卡</strong></a>
+						<span class="icon i-hot"></span>
+		</li>
+		<li ><a  onclick="pageTracker._trackPageview('dp_head_info_wuhan');" href="http://www.dianping.com/info/wuhan"><strong>优惠</strong></a></li>
+		<li ><a href="http://s.dianping.com/wuhan/group"  onclick="pageTracker._trackPageview('dp_head_group_wuhan');"><strong>社区</strong></a>
+		
+		</li>
+	</ul>
+	<div class="nav-bar" id="G_nav-bar">
+		<div class="channel"><a href="javascript:;" id="G_chan" class="chan-btn"><span class="txt">全部商户</span></a></div>
+<fieldset class="s-box">
+	<label for="G_s">我要找：</label>
+	<div class="s-wrap"><div id="G_s-wrap" class="s-wrap-inner">
+			<a href="javascript:;" class="cate-select" id="G_s-cate"  onclick="pageTracker._trackPageview('dp_head_keyword_down_wuhan');">
+全部
+			</a>
+		<input type="text" x-webkit-speech="" x-webkit-grammar="builtin:translate" placeholder="搜索商户名、地址、菜名等" autocomplete="off" id="G_s" 	data-s-pattern="http://www.dianping.com/search/keyword/{0}/{1}_" data-s-epattern="http://www.dianping.com/search/category/{0}/{1}"
+
+  data-s-cateid="0" data-s-cityid="16" data-s-chanid="999" class="focus" value="光谷美食"  onwebkitspeechchange="pageTracker._trackPageview('dp_head_kerword_voice_wuhan');"/>
+	</div></div>
+	<input type="button" value="搜索" id="G_s-btn" class="s-btn"  onclick="pageTracker._trackPageview('dp_head_keyword_result_wuhan_search');">
+</fieldset>
+<div class="bar-extra">
+<dl class="popular">
+	<dt>热门搜索：</dt>
+	<dd>
+			<a href="http://www.dianping.com/search/keyword/16/0_外卖" alt="外卖" class="keyword" onclick="document.hippo.ext({cl_i:1,cl_cms:0}).mv('cl_m', 2);pageTracker._trackPageview('dp_head_wuhan_hotsearch1');" >外卖</a>
+			<a href="http://www.dianping.com/search/keyword/16/0_武汉天地" alt="武汉天地" class="keyword" onclick="document.hippo.ext({cl_i:2,cl_cms:0}).mv('cl_m', 2);pageTracker._trackPageview('dp_head_wuhan_hotsearch2');" >武汉天地</a>
+			<a href="http://www.dianping.com/search/keyword/16/0_仟吉西饼" alt="仟吉西饼" class="keyword" onclick="document.hippo.ext({cl_i:3,cl_cms:0}).mv('cl_m', 2);pageTracker._trackPageview('dp_head_wuhan_hotsearch3');" >仟吉西饼</a>
+			<a href="http://www.dianping.com/search/keyword/16/0_凯德广场" alt="凯德广场" class="keyword" onclick="document.hippo.ext({cl_i:4,cl_cms:0}).mv('cl_m', 2);pageTracker._trackPageview('dp_head_wuhan_hotsearch4');" >凯德广场</a>
+	</dd>
+</dl>
+</div>
+	</div>
+</div>
+<script>if(!window.DP)DP={};DP._s=function(){function g(a){return a.replace(/^\s+|\s+$/g,h)}function d(){m();var a=g(e().replace(i," ")).replace(/\//g,""),b=j(n),k=j(o);a||k?f.location.href=a?b+encodeURIComponent(a):k:c.focus();return!1}function e(){return c.value}function j(a){for(var c=l,b=c.length;b--;)a=a.replace("{"+b+"}",c[b]);return a}var l=arguments,f=this,b=f.document,h="",i=/[\\<]+/g,c=b.getElementById("G_s"),b=b.getElementById("G_s-btn"),n=c.getAttribute("data-s-pattern"),o=c.getAttribute("data-s-epattern"),m=b.onclick;c.onfocus=function(){this.className="focus"};c.onblur=function(){g(e())||(this.className=h)};c.onkeydown=function(a){a=a||f.event;if(a.keyCode===13)return d()};b.onclick=d;return{s:i,data:function(){l=arguments},val:function(a){e=a},submit:d}}(16,0);</script>
+
+<div class="main page-asa Fix">
+    <div class="section">
+        <div class="section-inner">
+			<div class="box searchNav">
+        <div class="guide">
+                <h1 style="display:inline;"><strong class="Color4">"光谷美食"</strong></h1><span
+                        class="Color7">(2546)</span>
+
+        </div>
+
+
+</div>
+
+
+<div class="slt-group">
+
+
+                <div class="search-tg">
+                <label  for="J_tg-filter"><input id="J_tg-filter" class="ipt-chk" type="checkbox" data-value="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/m3" onclick="pageTracker._trackPageview('dp_search_dealfilter_wuhan')">只看有团购的商户</label><span>(148)</span>
+                </div>
+ </div>
+
+
+
+
+			    <div class="box searchList searchResult searchList-v1009 listModeView" id="searchList">
+        <dl>
+        <dt>
+            <div class="filter-wrapper">
+                <span class="listFn typel">
+                    <span class="listBtn-wrapper">
+                        <a class="btn-list listBtn btn-list-on" href="javascript:;" onclick="pageTracker._trackPageview('dp_search_keyword_listview_wuhan_all');document.hippo.ext({index:'1',action:'click',type:'mode',content:'',title:'列表模式'}).mv('module','5_ordersearch_0');" title="列表模式" type-normal='1'><span>列表</span></a>
+                        <a class="btn-thumb listBtn" href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/n2" onclick="pageTracker._trackPageview('dp_search_keyword_galleryview_wuhan_all');document.hippo.ext({index:'2',action:'click',type:'mode',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/n2',title:'大图模式'}).mv('module','5_ordersearch_0');" title="大图模式" type-normal='1'><span>大图</span></a>
+                        <a  class="listMap listBtn" href="/search/map/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F" title="在地图上浏览商户" onclick="pageTracker._trackPageview('dp_search_keyword_mapview_wuhan_all');document.hippo.ext({index:'3',action:'click',type:'mode',content:'/search/map/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F',title:'地图模式'}).mv('module','5_ordersearch_0');"><span>地图</span></a>
+                    </span>
+                    <span>排序:</span>
+                        <dl class="pageSort J_pop-trigger">
+                            <dt><span>默认</span></dt>
+                            <dd class="J_pop-cont pageSort-cont" id="J_pop_sort">
+                                <ul>
+                                        <li>
+                                            <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o2" data-order="2" onclick="pageTracker._trackPageview('dp_search_category_left_order2_wuhan_all');document.hippo.ext({index:'1',action:'click',type:'sort',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o2',title:'按人气排序'}).mv('module','5_ordersearch_0');">按人气排序</a>
+                                        </li>
+                                        <li>
+                                            <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o3" data-order="3" onclick="pageTracker._trackPageview('dp_search_category_left_order3_wuhan_all');document.hippo.ext({index:'2',action:'click',type:'sort',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o3',title:'按总体评价排序'}).mv('module','5_ordersearch_0');">按总体评价排序</a>
+                                        </li>
+                                        <li>
+                                            <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o10" data-order="10" onclick="pageTracker._trackPageview('dp_search_category_left_order10_wuhan_all');document.hippo.ext({index:'3',action:'click',type:'sort',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o10',title:'按点评数排序'}).mv('module','5_ordersearch_0');">按点评数排序</a>
+                                        </li>
+                                        <li>
+                                            <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o8b1" data-order="8" onclick="pageTracker._trackPageview('dp_search_category_left_order8_wuhan_all');document.hippo.ext({index:'4',action:'click',type:'sort',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o8b1',title:'按费用从低到高排序'}).mv('module','5_ordersearch_0');">按费用从低到高排序</a>
+                                        </li>
+                                        <li>
+                                            <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o8" data-order="8" onclick="pageTracker._trackPageview('dp_search_category_left_order8_wuhan_all');document.hippo.ext({index:'5',action:'click',type:'sort',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o8',title:'按费用从高到低排序'}).mv('module','5_ordersearch_0');">按费用从高到低排序</a>
+                                        </li>
+                                        <li>
+                                            <a>默认</a>
+                                        </li>
+                                </ul>
+                            </dd>
+                        </dl>
+                    <span class="listBtn-wrapper listPrice-wrapper">
+                            <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o8" data-ga-sortmode="d" class="listPrice listBtn" title="点击查看费用从高到低排序"><span onclick="document.hippo.ext({index:'2',action:'click',type:'price',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o8',title:'费用'}).mv('module','5_ordersearch_0');">费用</span></a>
+                    </span>
+                        <div class="priceRangeWrapper hidden" id="range-wrap">
+                            <div class="priceRange" id="bar-range">
+                                <input autocomplete="off" type="text" class="rangeNum range-min"><span>-</span><input type="text" autocomplete="off" class="rangeNum range-max">
+                                <input type="button" value="确定" onclick="document.hippo.ext({index:'1',action:'click',type:'pricelimit',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/{0}',title:'价格筛选'}).mv('module','5_ordersearch_0');" class="rangeBtn" data-url="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/{0}">
+                            </div>
+                        </div>
+                 </span>
+                        <span id="scoreSetA" class="listFn typer">
+                                <a href="#" id="sortHelp" style="visibility:hidden;" rel="nofollow"></a>
+                                <a id="powerSort" class="sortItem p1" title="按总体评价排序" rel="nofollow"
+                                   onclick="pageTracker._trackPageview('dp_search_keyword_right_o3_wuhan_all');document.hippo.ext({index:'1',action:'click',type:'sortbutton',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o3}',title:'总体评价'}).mv('module','5_ordersearch_0');"
+                                   href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/o3">总体评价</a>
+                        </span>
+                </div>
+
+			<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star50" title="五星商户"></span>
+        </li>
+            <li><a href="/shop/8996649/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">148封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>59</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/8996649" class="BL" title="丽江龙记斑鱼庄"
+               onclick="document.hippo.ext({cl_i:1,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',8996649);"
+               data-hippo-type="shop"
+               target="_blank">丽江龙记斑鱼庄</a>            <a
+                    onclick="document.hippo.ext({index:'1',action:'click',type:'grouponicon',content:'http://t.dianping.com/deal/180242',title:'丽江龙记斑鱼庄!仅售68元,价值232元双人套餐!幽静朴实环境,清新典雅装饰!鲜嫩鱼片新鲜入味,丽江风情欲缭绕说还休!'}).mv('module','5_shopresult_0');"
+                    href="http://t.dianping.com/deal/180242" title="丽江龙记斑鱼庄!仅售68元,价值232元双人套餐!幽静朴实环境,清新典雅装饰!鲜嫩鱼片新鲜入味,丽江风情欲缭绕说还休!" target="_blank" class="igroup"
+data-hippo-dealgrp_type="" data-hippo-dealgrp_id="180242"></a>                                                                    <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>关山大道1号<span class="Color4">光谷</span>软件园A7栋2楼
+            &nbsp;&nbsp;87772320
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g110"
+                                                                               class="Gray">火锅</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+            <li class="info" module="list-info-tuangou"><strong><a href="http://t.dianping.com/deal/180242"
+                                                                   data-hippo-type="groupon"
+                                                                   onclick="document.hippo.ext({dealgrp_id:'180242',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                                                                   class="OL" title="丽江龙记斑鱼庄!仅售68元,价值232元双人套餐!幽静朴实环境,清新典雅装饰!鲜嫩鱼片新鲜入味,丽江风情欲缭绕说还休!"
+                                                                   target="_blank">团购:</a></strong><a
+                    href="http://t.dianping.com/deal/180242"
+                    class="B" title="丽江龙记斑鱼庄!仅售68元,价值232元双人套餐!幽静朴实环境,清新典雅装饰!鲜嫩鱼片新鲜入味,丽江风情欲缭绕说还休!"
+                    data-hippo-type="groupon"
+                    onclick="document.hippo.ext({dealgrp_id:'180242',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                    target="_blank">丽江龙记斑鱼庄!仅售68元,价值232元双人套餐!幽静朴实环境,清新...</a></li>
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/8996649/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="8996649" data-fav-favortype="1"
+                           data-name="丽江龙记斑鱼庄">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IABEEIZUUBDBHQ"
+                                 data-address="关山大道1号光谷软件园A7栋2楼" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="丽江龙记斑鱼庄"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_8996649{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star45" title="准五星商户"></span>
+        </li>
+            <li><a href="/shop/2013646/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">340封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>173</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/2013646" class="BL" title="光谷之窗旋转餐厅"
+               onclick="document.hippo.ext({cl_i:2,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',2013646);"
+               data-hippo-type="shop"
+               target="_blank"><span class="Color4">光谷</span>之窗旋转餐厅</a>
+&nbsp;别名:华美达<span class="Color4">光谷</span>大酒店旋转餐厅&nbsp;&nbsp;            <a
+                    onclick="document.hippo.ext({index:'2',action:'click',type:'grouponicon',content:'http://t.dianping.com/deal/255122',title:'华美达光谷大酒店旋转餐厅!仅售189元,价值262元自助晚餐!儿童乐园免费使用!窗内美馔窗外景,琳琅美餮中西融汇,光谷美景尽收眼底!'}).mv('module','5_shopresult_0');"
+                    href="http://t.dianping.com/deal/255122" title="华美达光谷大酒店旋转餐厅!仅售189元,价值262元自助晚餐!儿童乐园免费使用!窗内美馔窗外景,琳琅美餮中西融汇,光谷美景尽收眼底!" target="_blank" class="igroup"
+data-hippo-dealgrp_type="" data-hippo-dealgrp_id="255122"></a>                                                                    <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>珞喻路726号鲁巷购物广场中心华美达<span class="Color4">光谷</span>大酒店内(近地铁2号线<span class="Color4">光谷</span>站出口处)
+            &nbsp;&nbsp;87806888转
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g111"
+                                                                               class="Gray">自助餐</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+            <li class="info" module="list-info-tuangou"><strong><a href="http://t.dianping.com/deal/255122"
+                                                                   data-hippo-type="groupon"
+                                                                   onclick="document.hippo.ext({dealgrp_id:'255122',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                                                                   class="OL" title="华美达光谷大酒店旋转餐厅!仅售189元,价值262元自助晚餐!儿童乐园免费使用!窗内美馔窗外景,琳琅美餮中西融汇,光谷美景尽收眼底!"
+                                                                   target="_blank">团购:</a></strong><a
+                    href="http://t.dianping.com/deal/255122"
+                    class="B" title="华美达光谷大酒店旋转餐厅!仅售189元,价值262元自助晚餐!儿童乐园免费使用!窗内美馔窗外景,琳琅美餮中西融汇,光谷美景尽收眼底!"
+                    data-hippo-type="groupon"
+                    onclick="document.hippo.ext({dealgrp_id:'255122',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                    target="_blank">华美达光谷大酒店旋转餐厅!仅售189元,价值262元自助晚餐!儿童乐...</a></li>
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/2013646/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="2013646" data-fav-favortype="1"
+                           data-name="光谷之窗旋转餐厅">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IAADFJZUUBRWAC"
+                                 data-address="珞喻路726号鲁巷购物广场中心华美达光谷大酒店内" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="光谷之窗旋转餐厅"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_2013646{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star45" title="准五星商户"></span>
+        </li>
+            <li><a href="/shop/4182066/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">383封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>97</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/4182066" class="BL" title="颐和尚景酒店"
+               onclick="document.hippo.ext({cl_i:3,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',4182066);"
+               data-hippo-type="shop"
+               target="_blank">颐和尚景酒店</a>            <a
+                    onclick="document.hippo.ext({index:'3',action:'click',type:'grouponicon',content:'http://t.dianping.com/deal/258583',title:'颐和尚景酒店!仅售488元,价值1064元10-12人套餐!置身清新之所,体验难得一刻静谧!贺3周年店庆,钜惠江城!'}).mv('module','5_shopresult_0');"
+                    href="http://t.dianping.com/deal/258583" title="颐和尚景酒店!仅售488元,价值1064元10-12人套餐!置身清新之所,体验难得一刻静谧!贺3周年店庆,钜惠江城!" target="_blank" class="igroup"
+data-hippo-dealgrp_type="" data-hippo-dealgrp_id="258583"></a>                                                                    <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>东湖新技术开发区<span class="Color4">光谷</span>创业街66号
+            &nbsp;&nbsp;59006666
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g4319"
+                                                                               class="Gray">湖北菜</a>
+                &nbsp;&nbsp;<a href="/search/category/16/55/g165"
+                                                                               class="Gray">婚宴酒店</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+            <li class="info" module="list-info-tuangou"><strong><a href="http://t.dianping.com/deal/258583"
+                                                                   data-hippo-type="groupon"
+                                                                   onclick="document.hippo.ext({dealgrp_id:'258583',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                                                                   class="OL" title="颐和尚景酒店!仅售488元,价值1064元10-12人套餐!置身清新之所,体验难得一刻静谧!贺3周年店庆,钜惠江城!"
+                                                                   target="_blank">团购:</a></strong><a
+                    href="http://t.dianping.com/deal/258583"
+                    class="B" title="颐和尚景酒店!仅售488元,价值1064元10-12人套餐!置身清新之所,体验难得一刻静谧!贺3周年店庆,钜惠江城!"
+                    data-hippo-type="groupon"
+                    onclick="document.hippo.ext({dealgrp_id:'258583',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                    target="_blank">颐和尚景酒店!仅售488元,价值1064元10-12人套餐!置身清新之所,体...</a></li>
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/4182066/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="4182066" data-fav-favortype="1"
+                           data-name="颐和尚景酒店">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IABFTVZUUCJFIJ"
+                                 data-address="东湖新技术开发区光谷创业街66号" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="颐和尚景酒店"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_4182066{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star45" title="准五星商户"></span>
+        </li>
+            <li><a href="/shop/3656704/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">232封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>82</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/3656704" class="BL" title="湖锦酒楼"
+               onclick="document.hippo.ext({cl_i:4,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',3656704);"
+               data-hippo-type="shop"
+               target="_blank">湖锦酒楼(<span class="Color4">光谷</span>店)</a>            <a
+                    onclick="document.hippo.ext({index:'4',action:'click',type:'grouponicon',content:'http://t.dianping.com/deal/241565',title:'湖锦酒楼!仅售288元,价值486元6人套餐!3店通用!香气弥漫,秀色娇艳可餐,入口美味难忘!'}).mv('module','5_shopresult_0');"
+                    href="http://t.dianping.com/deal/241565" title="湖锦酒楼!仅售288元,价值486元6人套餐!3店通用!香气弥漫,秀色娇艳可餐,入口美味难忘!" target="_blank" class="igroup"
+data-hippo-dealgrp_type="" data-hippo-dealgrp_id="241565"></a>                                                            <span class="tip"><a
+                    href="/search/branch/16/0_49224/g0"
+                    module="list-branch"
+                    target="_blank"><em>分店</em></a></span>        <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>珞喻路1037号华中科技大学洪山校区88号<span class="Color4">光谷</span>体育馆对面
+            &nbsp;&nbsp;87781777
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g4319"
+                                                                               class="Gray">湖北菜</a>
+                &nbsp;&nbsp;<a href="/search/category/16/55/g165"
+                                                                               class="Gray">婚宴酒店</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+            <li class="info" module="list-info-tuangou"><strong><a href="http://t.dianping.com/deal/241565"
+                                                                   data-hippo-type="groupon"
+                                                                   onclick="document.hippo.ext({dealgrp_id:'241565',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                                                                   class="OL" title="湖锦酒楼!仅售288元,价值486元6人套餐!3店通用!香气弥漫,秀色娇艳可餐,入口美味难忘!"
+                                                                   target="_blank">团购:</a></strong><a
+                    href="http://t.dianping.com/deal/241565"
+                    class="B" title="湖锦酒楼!仅售288元,价值486元6人套餐!3店通用!香气弥漫,秀色娇艳可餐,入口美味难忘!"
+                    data-hippo-type="groupon"
+                    onclick="document.hippo.ext({dealgrp_id:'241565',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                    target="_blank">湖锦酒楼!仅售288元,价值486元6人套餐!3店通用!香气弥漫,秀色娇...</a></li>
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/3656704/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="3656704" data-fav-favortype="1"
+                           data-name="湖锦酒楼(光谷店)">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IAASDWZUUCCWBH"
+                                 data-address="珞喻路1037号华中科技大学洪山校区88号光谷体育馆对面" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="湖锦酒楼(光谷店)"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_3656704{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star40" title="四星商户"></span>
+        </li>
+            <li><a href="/shop/8981691/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">72封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>51</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/8981691" class="BL" title="捞旺猪肚鸡"
+               onclick="document.hippo.ext({cl_i:5,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',8981691);"
+               data-hippo-type="shop"
+               target="_blank">捞旺猪肚鸡(<span class="Color4">光谷</span>店)</a>            <a
+                    onclick="document.hippo.ext({index:'5',action:'click',type:'grouponicon',content:'http://t.dianping.com/deal/227568',title:'捞旺猪肚鸡!仅售198元,价值510元4人无敌海鲜大餐!3店通用!超值美食,港式打边炉上品!内蕴经典,引领三镇美味潮流!'}).mv('module','5_shopresult_0');"
+                    href="http://t.dianping.com/deal/227568" title="捞旺猪肚鸡!仅售198元,价值510元4人无敌海鲜大餐!3店通用!超值美食,港式打边炉上品!内蕴经典,引领三镇美味潮流!" target="_blank" class="igroup"
+data-hippo-dealgrp_type="" data-hippo-dealgrp_id="227568"></a>                                                            <span class="tip"><a
+                    href="/search/branch/16/0_6207178/g0"
+                    module="list-branch"
+                    target="_blank"><em>分店</em></a></span>        <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>珞瑜路887号
+            &nbsp;&nbsp;87616657
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g110"
+                                                                               class="Gray">火锅</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+            <li class="info" module="list-info-tuangou"><strong><a href="http://t.dianping.com/deal/227568"
+                                                                   data-hippo-type="groupon"
+                                                                   onclick="document.hippo.ext({dealgrp_id:'227568',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                                                                   class="OL" title="捞旺猪肚鸡!仅售198元,价值510元4人无敌海鲜大餐!3店通用!超值美食,港式打边炉上品!内蕴经典,引领三镇美味潮流!"
+                                                                   target="_blank">团购:</a></strong><a
+                    href="http://t.dianping.com/deal/227568"
+                    class="B" title="捞旺猪肚鸡!仅售198元,价值510元4人无敌海鲜大餐!3店通用!超值美食,港式打边炉上品!内蕴经典,引领三镇美味潮流!"
+                    data-hippo-type="groupon"
+                    onclick="document.hippo.ext({dealgrp_id:'227568',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                    target="_blank">捞旺猪肚鸡!仅售198元,价值510元4人无敌海鲜大餐!3店通用!超值美...</a></li>
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/8981691/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="8981691" data-fav-favortype="1"
+                           data-name="捞旺猪肚鸡(光谷店)">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IAACUSZUUBSDEI"
+                                 data-address="珞瑜路887号" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="捞旺猪肚鸡(光谷店)"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_8981691{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star40" title="四星商户"></span>
+        </li>
+            <li><a href="/shop/4277135/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">323封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>46</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/4277135" class="BL" title="老五烧烤"
+               onclick="document.hippo.ext({cl_i:6,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',4277135);"
+               data-hippo-type="shop"
+               target="_blank">老五烧烤(鲁磨路店)</a>                                                                        <span class="tip"><a
+                    href="/search/branch/16/0_50210/g0"
+                    module="list-branch"
+                    target="_blank"><em>分店</em></a></span>        <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>鲁磨路181号国光大厦1楼
+            &nbsp;&nbsp;87596521
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g508"
+                                                                               class="Gray">烧烤</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/4277135/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="4277135" data-fav-favortype="1"
+                           data-name="老五烧烤(鲁磨路店)">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IAACBUZUUBVDFJ"
+                                 data-address="鲁磨路181号国光大厦1楼" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="老五烧烤(鲁磨路店)"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_4277135{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star40" title="四星商户"></span>
+        </li>
+            <li><a href="/shop/3450088/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">689封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>73</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/3450088" class="BL" title="四季恋餐厅"
+               onclick="document.hippo.ext({cl_i:7,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',3450088);"
+               data-hippo-type="shop"
+               target="_blank">四季恋餐厅(<span class="Color4">光谷</span>店)</a>                                                                        <span class="tip"><a
+                    href="/search/branch/16/0_1887220/g0"
+                    module="list-branch"
+                    target="_blank"><em>分店</em></a></span>        <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>关山路<span class="Color4">光谷</span>广场光电子大市场内<span class="Color4">光谷</span>书城2楼
+            &nbsp;&nbsp;81887733
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g101"
+                                                                               class="Gray">江浙菜</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/3450088/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="3450088" data-fav-favortype="1"
+                           data-name="四季恋餐厅(光谷店)">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IAAFDTZUUBSIAL"
+                                 data-address="关山路光谷广场光电子大市场内光谷书城2楼" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="四季恋餐厅(光谷店)"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_3450088{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star40" title="四星商户"></span>
+        </li>
+            <li><a href="/shop/8961427/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">83封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>21</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/8961427" class="BL" title="Bobo Bakery"
+               onclick="document.hippo.ext({cl_i:8,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',8961427);"
+               data-hippo-type="shop"
+               target="_blank">Bobo Bakery(<span class="Color4">光谷</span>店)</a>            <a
+                    onclick="document.hippo.ext({index:'8',action:'click',type:'grouponicon',content:'http://t.dianping.com/deal/234746',title:'Bobo Bakery!仅售20元,最高价值36元特色套餐!丝丝甜味,随口而入,随心所选,总有一款令你心动!清凉一夏!愉悦一夏!'}).mv('module','5_shopresult_0');"
+                    href="http://t.dianping.com/deal/234746" title="Bobo Bakery!仅售20元,最高价值36元特色套餐!丝丝甜味,随口而入,随心所选,总有一款令你心动!清凉一夏!愉悦一夏!" target="_blank" class="igroup"
+data-hippo-dealgrp_type="" data-hippo-dealgrp_id="234746"></a>                                                            <span class="tip"><a
+                    href="/search/branch/16/0_5336867/g0"
+                    module="list-branch"
+                    target="_blank"><em>分店</em></a></span>        <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a><span class="Color4">光谷</span>步行街西班牙风情街133号
+            &nbsp;&nbsp;4000272517
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g240"
+                                                                               class="Gray">面包糕点</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+            <li class="info" module="list-info-tuangou"><strong><a href="http://t.dianping.com/deal/234746"
+                                                                   data-hippo-type="groupon"
+                                                                   onclick="document.hippo.ext({dealgrp_id:'234746',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                                                                   class="OL" title="Bobo Bakery!仅售20元,最高价值36元特色套餐!丝丝甜味,随口而入,随心所选,总有一款令你心动!清凉一夏!愉悦一夏!"
+                                                                   target="_blank">团购:</a></strong><a
+                    href="http://t.dianping.com/deal/234746"
+                    class="B" title="Bobo Bakery!仅售20元,最高价值36元特色套餐!丝丝甜味,随口而入,随心所选,总有一款令你心动!清凉一夏!愉悦一夏!"
+                    data-hippo-type="groupon"
+                    onclick="document.hippo.ext({dealgrp_id:'234746',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                    target="_blank">Bobo Bakery!仅售20元,最高价值36元特色套餐!丝丝甜味,随口而入,...</a></li>
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/8961427/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="8961427" data-fav-favortype="1"
+                           data-name="Bobo Bakery(光谷店)">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IAAESTZUUBTFER"
+                                 data-address="光谷步行街西班牙风情街133号" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="Bobo Bakery(光谷店)"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_8961427{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star40" title="四星商户"></span>
+        </li>
+            <li><a href="/shop/5505744/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">186封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>58</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/5505744" class="BL" title="川霸味道"
+               onclick="document.hippo.ext({cl_i:9,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',5505744);"
+               data-hippo-type="shop"
+               target="_blank">川霸味道(<span class="Color4">光谷</span>天地店)</a>                                    <a id="vendor_5505744" class="icard"
+                                            data-hippo-type="cardicon"
+                                            href="/card/detail/c3_b5505744_a22" target="_blank"
+title="会员专享9折优惠"></a>                                    <span class="tip"><a
+                    href="/search/branch/16/0_4223212/g0"
+                    module="list-branch"
+                    target="_blank"><em>分店</em></a></span>        <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>关山大道<span class="Color4">光谷</span>天地2楼(近<span class="Color4">光谷</span>软件园)
+            &nbsp;&nbsp;87871777
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g102"
+                                                                               class="Gray">川菜</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+
+        <li class="info"><strong><a target="_blank" class="OL" title="会员专享9折优惠"
+                                    href="/shop/5505744#vip_startIndex">会员卡:</a></strong><a
+                target="_blank" class="B" title="会员专享9折优惠"
+                onclick="pageTracker._trackPageview('dp_search_card_wuhan');document.hippo.ext({index:'9',action:'click',type:'card',content:'/shop/5505744#vip_startIndex',title:'会员专享9折优惠'}).mv('module','5_shopresult_0');"
+href="/card/detail/c3_b5505744_a22">会员专享9折优惠</a>    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/5505744/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="5505744" data-fav-favortype="1"
+                           data-name="川霸味道(光谷天地店)">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IABEGFZUUBDUVC"
+                                 data-address="关山大道光谷天地2楼" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="川霸味道(光谷天地店)"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_5505744{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star40" title="四星商户"></span>
+        </li>
+            <li><a href="/shop/5771728/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">95封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>73</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/5771728" class="BL" title="黄记煌三汁焖锅"
+               onclick="document.hippo.ext({cl_i:10,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',5771728);"
+               data-hippo-type="shop"
+               target="_blank">黄记煌三汁焖锅(<span class="Color4">光谷</span>天地店)</a>            <a
+                    onclick="document.hippo.ext({index:'10',action:'click',type:'grouponicon',content:'http://t.dianping.com/deal/262452',title:'黄记煌三汁焖锅!仅售128元,最高价值234元2-3人午市套餐!7店可选!知名人气连锁!特色秘制三汁,口感独到!传承百年美味,焖出一锅鲜香!'}).mv('module','5_shopresult_0');"
+                    href="http://t.dianping.com/deal/262452" title="黄记煌三汁焖锅!仅售128元,最高价值234元2-3人午市套餐!7店可选!知名人气连锁!特色秘制三汁,口感独到!传承百年美味,焖出一锅鲜香!" target="_blank" class="igroup"
+data-hippo-dealgrp_type="" data-hippo-dealgrp_id="262452"></a>                                                            <span class="tip"><a
+                    href="/search/branch/16/0_4498056/g0"
+                    module="list-branch"
+                    target="_blank"><em>分店</em></a></span>        <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>关山大道489号<span class="Color4">光谷</span>天地F3区1楼
+            &nbsp;&nbsp;87777888
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g110"
+                                                                               class="Gray">火锅</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+            <li class="info" module="list-info-tuangou"><strong><a href="http://t.dianping.com/deal/262452"
+                                                                   data-hippo-type="groupon"
+                                                                   onclick="document.hippo.ext({dealgrp_id:'262452',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                                                                   class="OL" title="黄记煌三汁焖锅!仅售128元,最高价值234元2-3人午市套餐!7店可选!知名人气连锁!特色秘制三汁,口感独到!传承百年美味,焖出一锅鲜香!"
+                                                                   target="_blank">团购:</a></strong><a
+                    href="http://t.dianping.com/deal/262452"
+                    class="B" title="黄记煌三汁焖锅!仅售128元,最高价值234元2-3人午市套餐!7店可选!知名人气连锁!特色秘制三汁,口感独到!传承百年美味,焖出一锅鲜香!"
+                    data-hippo-type="groupon"
+                    onclick="document.hippo.ext({dealgrp_id:'262452',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                    target="_blank">黄记煌三汁焖锅!仅售128元,最高价值234元2-3人午市套餐!7店可选!...</a></li>
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/5771728/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="5771728" data-fav-favortype="1"
+                           data-name="黄记煌三汁焖锅(光谷天地店)">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IAAUUCZUUCASBQ"
+                                 data-address="关山大道489号光谷天地F3区1楼" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="黄记煌三汁焖锅(光谷天地店)"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_5771728{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star40" title="四星商户"></span>
+        </li>
+            <li><a href="/shop/1946332/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">413封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>53</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/1946332" class="BL" title="南海底捞平价小海鲜"
+               onclick="document.hippo.ext({cl_i:11,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',1946332);"
+               data-hippo-type="shop"
+               target="_blank">南海底捞平价小海鲜(紫菘店)</a>                                                                        <span class="tip"><a
+                    href="/search/branch/16/0_1946332/g0"
+                    module="list-branch"
+                    target="_blank"><em>分店</em></a></span>        <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>武昌珞喻路618号
+            &nbsp;&nbsp;87455176
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g251"
+                                                                               class="Gray">海鲜</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/1946332/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="1946332" data-fav-favortype="1"
+                           data-name="南海底捞平价小海鲜(紫菘店)">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="HWWWCRZUUBRITD"
+                                 data-address="武昌珞喻路618号" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="南海底捞平价小海鲜(紫菘店)"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_1946332{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star45" title="准五星商户"></span>
+        </li>
+            <li><a href="/shop/2799133/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">152封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>101</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/2799133" class="BL" title="食尚坊"
+               onclick="document.hippo.ext({cl_i:12,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',2799133);"
+               data-hippo-type="shop"
+               target="_blank">食尚坊(<span class="Color4">光谷</span>店)</a>                                                                        <span class="tip"><a
+                    href="/search/branch/16/0_2379181/g0"
+                    module="list-branch"
+                    target="_blank"><em>分店</em></a></span>        <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>东湖高新技术开发区大学园路2号
+            &nbsp;&nbsp;81692350
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g4319"
+                                                                               class="Gray">湖北菜</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/2799133/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="2799133" data-fav-favortype="1"
+                           data-name="食尚坊(光谷店)">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IABIFIZUUATESE"
+                                 data-address="东湖高新技术开发区大学园路2号" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="食尚坊(光谷店)"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_2799133{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star45" title="准五星商户"></span>
+        </li>
+            <li><a href="/shop/6208477/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">40封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>37</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/6208477" class="BL" title="尊宝比萨"
+               onclick="document.hippo.ext({cl_i:13,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',6208477);"
+               data-hippo-type="shop"
+               target="_blank">尊宝比萨(<span class="Color4">光谷</span>店)</a>            <a
+                    onclick="document.hippo.ext({index:'13',action:'click',type:'grouponicon',content:'http://t.dianping.com/deal/215923',title:'尊宝比萨!仅售49元,最高价值97元双人套餐!3店通用!全国连锁,地道手工现做现烤,层层美妙口感,在味蕾迸发!'}).mv('module','5_shopresult_0');"
+                    href="http://t.dianping.com/deal/215923" title="尊宝比萨!仅售49元,最高价值97元双人套餐!3店通用!全国连锁,地道手工现做现烤,层层美妙口感,在味蕾迸发!" target="_blank" class="igroup"
+data-hippo-dealgrp_type="" data-hippo-dealgrp_id="215923"></a>                        <a id="vendor_6208477" class="icard"
+                                            data-hippo-type="cardicon"
+                                            href="/card/detail/c3_b6208477_a22" target="_blank"
+title="会员专享9折优惠"></a>                                    <span class="tip"><a
+                    href="/search/branch/16/0_6208477/g0"
+                    module="list-branch"
+                    target="_blank"><em>分店</em></a></span>        <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>鲁巷珞喻路727号<span class="Color4">光谷</span>银座新都汇
+            &nbsp;&nbsp;87779817
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g24340"
+                                                                               class="Gray">比萨</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+            <li class="info" module="list-info-tuangou"><strong><a href="http://t.dianping.com/deal/215923"
+                                                                   data-hippo-type="groupon"
+                                                                   onclick="document.hippo.ext({dealgrp_id:'215923',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                                                                   class="OL" title="尊宝比萨!仅售49元,最高价值97元双人套餐!3店通用!全国连锁,地道手工现做现烤,层层美妙口感,在味蕾迸发!"
+                                                                   target="_blank">团购:</a></strong><a
+                    href="http://t.dianping.com/deal/215923"
+                    class="B" title="尊宝比萨!仅售49元,最高价值97元双人套餐!3店通用!全国连锁,地道手工现做现烤,层层美妙口感,在味蕾迸发!"
+                    data-hippo-type="groupon"
+                    onclick="document.hippo.ext({dealgrp_id:'215923',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                    target="_blank">尊宝比萨!仅售49元,最高价值97元双人套餐!3店通用!全国连锁,地道...</a></li>
+        <li class="info"><strong><a target="_blank" class="OL" title="会员专享9折优惠"
+                                    href="/shop/6208477#vip_startIndex">会员卡:</a></strong><a
+                target="_blank" class="B" title="会员专享9折优惠"
+                onclick="pageTracker._trackPageview('dp_search_card_wuhan');document.hippo.ext({index:'13',action:'click',type:'card',content:'/shop/6208477#vip_startIndex',title:'会员专享9折优惠'}).mv('module','5_shopresult_0');"
+href="/card/detail/c3_b6208477_a22">会员专享9折优惠</a>    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/6208477/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="6208477" data-fav-favortype="1"
+                           data-name="尊宝比萨(光谷店)">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IAAAVHZUUBRVHL"
+                                 data-address="鲁巷珞喻路727号光谷银座新都汇" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="尊宝比萨(光谷店)"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_6208477{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star40" title="四星商户"></span>
+        </li>
+            <li><a href="/shop/6357055/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">63封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>59</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/6357055" class="BL" title="荷花亭融合餐厅"
+               onclick="document.hippo.ext({cl_i:14,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',6357055);"
+               data-hippo-type="shop"
+               target="_blank">荷花亭融合餐厅(<span class="Color4">光谷</span>店)</a>                                                                        <span class="tip"><a
+                    href="/search/branch/16/0_2905876/g0"
+                    module="list-branch"
+                    target="_blank"><em>分店</em></a></span>        <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>珞喻路<span class="Color4">光谷</span>步行街<span class="Color4">光谷</span>世界城5楼
+            &nbsp;&nbsp;88189900
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g239"
+                                                                               class="Gray">西餐</a>
+                &nbsp;&nbsp;<a href="/search/category/16/10/g252"
+                                                                               class="Gray">其他中餐</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/6357055/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="6357055" data-fav-favortype="1"
+                           data-name="荷花亭融合餐厅(光谷店)">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IAAFTAZUUBSWSI"
+                                 data-address="珞喻路光谷步行街光谷世界城5楼" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="荷花亭融合餐厅(光谷店)"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_6357055{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+<dd>
+    <ul class="remark">
+        <li><span class="item-rank-rst irr-star40" title="四星商户"></span>
+        </li>
+            <li><a href="/shop/568519/review_all" class="B" module="list-readreview"
+                   rel="nofollow" target="_blank">262封点评</a></li>
+
+    </ul>
+
+    <strong class="average"><span class="Price">¥</span>53</strong>
+    <ul class="detail">
+        <li class="shopname">
+            <a href="/shop/568519" class="BL" title="九大碗"
+               onclick="document.hippo.ext({cl_i:15,query_id:'711dfcc0-7465-45e4-9e68-cdbef485100a'}).mv('cl_to_s',568519);"
+               data-hippo-type="shop"
+               target="_blank">九大碗</a>            <a
+                    onclick="document.hippo.ext({index:'15',action:'click',type:'grouponicon',content:'http://t.dianping.com/deal/239708',title:'九大碗!仅售34.5元,价值50元代金券1张!无需预约!新鲜食材,农家风味!难以忘怀的味道,呼朋引伴欢聚共享!'}).mv('module','5_shopresult_0');"
+                    href="http://t.dianping.com/deal/239708" title="九大碗!仅售34.5元,价值50元代金券1张!无需预约!新鲜食材,农家风味!难以忘怀的味道,呼朋引伴欢聚共享!" target="_blank" class="igroup"
+data-hippo-dealgrp_type="" data-hippo-dealgrp_id="239708"></a>                                                                    <li class="address">
+            <strong>地址:</strong><a
+                href="/search/category/16/0/r116"
+                class="Black-H">洪山区</a>喻家山北路特1号
+            &nbsp;&nbsp;87511888
+        </li>
+        </li>
+            <li class="tags"><strong>标签:</strong><a href="/search/category/16/10/g25474"
+                                                                               class="Gray">农家菜</a>
+                &nbsp;&nbsp;<a href="/search/category/16/0/r1886"
+                                                                               class="Gray"><span class="Color4">光谷</span>/鲁巷</a></li>
+            <li class="info" module="list-info-tuangou"><strong><a href="http://t.dianping.com/deal/239708"
+                                                                   data-hippo-type="groupon"
+                                                                   onclick="document.hippo.ext({dealgrp_id:'239708',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                                                                   class="OL" title="九大碗!仅售34.5元,价值50元代金券1张!无需预约!新鲜食材,农家风味!难以忘怀的味道,呼朋引伴欢聚共享!"
+                                                                   target="_blank">团购:</a></strong><a
+                    href="http://t.dianping.com/deal/239708"
+                    class="B" title="九大碗!仅售34.5元,价值50元代金券1张!无需预约!新鲜食材,农家风味!难以忘怀的味道,呼朋引伴欢聚共享!"
+                    data-hippo-type="groupon"
+                    onclick="document.hippo.ext({dealgrp_id:'239708',type:'',index:'1',action:'click'}).mv('module','5_con_tag');"
+                    target="_blank">九大碗!仅售34.5元,价值50元代金券1张!无需预约!新鲜食材,农家风...</a></li>
+    </ul>
+
+    <p class="fn">
+<span class="ireview"><a href="/shop/568519/review" rel="nofollow"
+                         onclick="pageTracker._trackPageview('dp_search_addreview_wuhan')"
+                         class="B" target="_blank">我要点评</a>|</span>
+<span class="ifavorite"><a href="#" rel="nofollow"
+                           onclick="pageTracker._trackPageview('dp_search_wishlist_wuhan')"
+                           class="B" data-fav-referid="568519" data-fav-favortype="1"
+                           data-name="九大碗">加入收藏</a>|</span>
+            <span class="imobile J_pop-map"><a href="javascript:;" rel="nofollow"
+                                onclick="pageTracker._trackPageview('dp_search_sms_wuhan')"
+                                 class="B" data-poi="IAADGVZUUCIRSQ"
+                                 data-address="喻家山北路特1号" target="_blank">商户地图</a>|</span>
+<span class="inearby"><a href="javascript:;" rel="nofollow" class="B J_search-near"
+                         data-sname="九大碗"
+                         onclick="pageTracker._trackPageview('dp_search_searcharound_wuhan')"
+                         data-url="/search/around/16/0_568519{keyword}">搜索附近</a></span>
+    </p>
+</dd>
+</dl>
+
+	
+	
+	<div class="Pages">
+		
+		
+					<span class="PageSel">1</span>
+					<a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/p2" data-ga-page="2" class="PageLink" title="2">2</a>
+					<a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/p3" data-ga-page="3" class="PageLink" title="3">3</a>
+					<a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/p4" data-ga-page="4" class="PageLink" title="4">4</a>
+					<a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/p5" data-ga-page="5" class="PageLink" title="5">5</a>
+					<a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/p6" data-ga-page="6" class="PageLink" title="6">6</a>
+					<a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/p7" data-ga-page="7" class="PageLink" title="7">7</a>
+					<a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/p8" data-ga-page="8" class="PageLink" title="8">8</a>
+					<a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/p9" data-ga-page="9" class="PageLink" title="9">9</a>
+		
+				<span class="PageMore">...</span>
+			<a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/p50" data-ga-page="50" class="PageLink" title="50">50</a>
+						
+			<a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/p2" data-ga-page="2" class="NextPage" title="下一页">下一页</a>
+	</div>
+<span class="iup"></span><a href="#top" class="BL top" onclick="pageTracker._trackPageview('dp_search_back_wuhan')">回到顶部</a>
+</div>
+			
+			<div class="addShopTip add-shop">
+    <div class="result-survey">您对搜索结果：<a href="javascript:void(0)" title="" class="satisfied" id="J_good"><i class="icon-satis"></i></a><a href="javascript:void(0)" title="" class="satisfied" id="J_bad"><i class="icon-fied"></i></a></div>
+    <div class="point-msg-box msg-suc" id="sucTip"><i class="msg-icon"></i><span class="txt">非常感谢对大众点评的支持</span></div>
+    <div class="lay-main add-shop-lay" id="userAdvice" style="display:none">
+        <div class="hd"><a href="#" title="关闭" class="close"></a></div>
+        <div class="con">
+            <p>遇到什么问题？</p>
+            <p><textarea name="" cols="" rows="" class="form-default">请输入...</textarea></p>
+            <div class="btn-box">
+                <span class="micro-btn"><a href="#" title="提交" class="btn-txt">提交</a></span>
+                <span class="micro-btn-ash"><a href="#" title="取消" class="btn-txt">取消</a></span>
+            </div>
+            <span class="add-arrow"></span>
+        </div>
+    </div>
+    没有找到想要的商户，请<span class="medi-btn"><a href="/addshop/16_10?k=光谷美食" title="添加商户" class="btn-txt J_pop-login" onclick="pageTracker._trackPageview('dp_search_addshop_wuhan');document.hippo.ext({index:'1',action:'click',content:'/addshop/16_10?k=光谷美食',title:'添加商户'}).mv('module','8_addshop_0');" data-loginga="addshop"><i class="icon-tip"></i>添加商户</a></span>
+</div>
+<!-- 广告类容开始 -->
+<div class="J_mkt-group-1"></div>
+<!-- 广告类容结束 -->
+        </div>
+    </div>
+    <div class="aside aside-left">
+        <div class="asideContainer">
+			<ul class="navBlock" id="leftCategory_ul">
+    <li><ul class="bigCurrent"><li><strong>全部频道</strong></li>
+        <li><ul>
+                <li data-url=""><a href="/search/keyword/16/10_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F" onclick="pageTracker._trackPageview('dp_search_category1_keyword_wuhan');document.hippo.ext({index:'1',action:'click',type:'g0',content:'/search/keyword/16/10_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F',title:'美食'}).mv('module','1_channelnav_0');" class="D">美食&nbsp;<span class="num">(2534)</span></a></li>
+                <li data-url=""><a href="/search/keyword/16/30_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F" onclick="pageTracker._trackPageview('dp_search_category1_keyword_wuhan');document.hippo.ext({index:'2',action:'click',type:'g0',content:'/search/keyword/16/30_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F',title:'休闲娱乐'}).mv('module','1_channelnav_0');" class="D">休闲娱乐&nbsp;<span class="num">(182)</span></a></li>
+                <li data-url=""><a href="/search/keyword/16/20_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F" onclick="pageTracker._trackPageview('dp_search_category1_keyword_wuhan');document.hippo.ext({index:'3',action:'click',type:'g0',content:'/search/keyword/16/20_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F',title:'购物'}).mv('module','1_channelnav_0');" class="D">购物&nbsp;<span class="num">(75)</span></a></li>
+                <li data-url=""><a href="/search/keyword/16/55_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F" onclick="pageTracker._trackPageview('dp_search_category1_keyword_wuhan');document.hippo.ext({index:'4',action:'click',type:'g0',content:'/search/keyword/16/55_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F',title:'结婚'}).mv('module','1_channelnav_0');" class="D">结婚&nbsp;<span class="num">(19)</span></a></li>
+                <li data-url=""><a href="/search/keyword/16/45_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F" onclick="pageTracker._trackPageview('dp_search_category1_keyword_wuhan');document.hippo.ext({index:'5',action:'click',type:'g0',content:'/search/keyword/16/45_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F',title:'运动健身'}).mv('module','1_channelnav_0');" class="D">运动健身&nbsp;<span class="num">(1)</span></a></li>
+                <li data-url=""><a href="/search/keyword/16/50_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F" onclick="pageTracker._trackPageview('dp_search_category1_keyword_wuhan');document.hippo.ext({index:'6',action:'click',type:'g0',content:'/search/keyword/16/50_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F',title:'丽人'}).mv('module','1_channelnav_0');" class="D">丽人&nbsp;<span class="num">(1)</span></a></li>
+    </ul></li>
+    </ul>
+</ul>
+
+			                               <ul class="navTabs Fixfloat" id="nav-tabs">
+                            <li class="first-child tab current">按行政区</li>
+                            <li class="tab">按商区</li>
+                        </ul>
+                    <ul class="navBlock navTab-cont navTab-cont-on">
+                        <li>
+                            <ul class="bigCurrent">
+
+                                <li>
+                                    <ul>
+                                            <li>
+                                                <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r116" 
+	                                             onclick="pageTracker._trackPageview('dp_search_district1_keyword_wuhan');document.hippo.ext({index:'1',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r116',title:'洪山区'}).mv('module','1_districtnav_0');"
+	                                             class="D">
+	                                             洪山区&nbsp;<span class="num">(2486)</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r111" 
+	                                             onclick="pageTracker._trackPageview('dp_search_district1_keyword_wuhan');document.hippo.ext({index:'2',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r111',title:'武昌区'}).mv('module','1_districtnav_0');"
+	                                             class="D">
+	                                             武昌区&nbsp;<span class="num">(3)</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r365" 
+	                                             onclick="pageTracker._trackPageview('dp_search_district1_keyword_wuhan');document.hippo.ext({index:'3',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r365',title:'近郊'}).mv('module','1_districtnav_0');"
+	                                             class="D">
+	                                             近郊&nbsp;<span class="num">(49)</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r113" 
+	                                             onclick="pageTracker._trackPageview('dp_search_district1_keyword_wuhan');document.hippo.ext({index:'4',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r113',title:'硚口区'}).mv('module','1_districtnav_0');"
+	                                             class="D">
+	                                             硚口区&nbsp;<span class="num">(2)</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r112" 
+	                                             onclick="pageTracker._trackPageview('dp_search_district1_keyword_wuhan');document.hippo.ext({index:'5',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r112',title:'江汉区'}).mv('module','1_districtnav_0');"
+	                                             class="D">
+	                                             江汉区&nbsp;<span class="num">(1)</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r383" 
+	                                             onclick="pageTracker._trackPageview('dp_search_district1_keyword_wuhan');document.hippo.ext({index:'6',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r383',title:'东西湖区'}).mv('module','1_districtnav_0');"
+	                                             class="D">
+	                                             东西湖区&nbsp;<span class="num">(1)</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r110" 
+	                                             onclick="pageTracker._trackPageview('dp_search_district1_keyword_wuhan');document.hippo.ext({index:'7',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r110',title:'江岸区'}).mv('module','1_districtnav_0');"
+	                                             class="D">
+	                                             江岸区&nbsp;<span class="num">(2)</span>
+                                                </a>
+                                            </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                        <ul class="navBlock navTab-cont appendable">
+                        <li>
+                            <ul class="bigCurrent">
+                                <li>
+                                    <ul>
+                                                <li><a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1866" 
+	                                                	   onclick="pageTracker._trackPageview('dp_search_bizzone_keyword_wuhan');document.hippo.ext({index:'1',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1866',title:'客运港/江滩'}).mv('module','1_bizzonenav_0');"
+                                                           class="D">
+	                                                        客运港/江滩&nbsp;<span class="num">(2)</span>
+                                                    </a>
+                                                </li>
+                                                <li><a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1886" 
+	                                                	   onclick="pageTracker._trackPageview('dp_search_bizzone_keyword_wuhan');document.hippo.ext({index:'2',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1886',title:'光谷/鲁巷'}).mv('module','1_bizzonenav_0');"
+                                                           class="D">
+	                                                        光谷/鲁巷&nbsp;<span class="num">(2481)</span>
+                                                    </a>
+                                                </li>
+                                                <li><a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1874" 
+	                                                	   onclick="pageTracker._trackPageview('dp_search_bizzone_keyword_wuhan');document.hippo.ext({index:'3',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1874',title:'江汉路步行街'}).mv('module','1_bizzonenav_0');"
+                                                           class="D">
+	                                                        江汉路步行街&nbsp;<span class="num">(1)</span>
+                                                    </a>
+                                                </li>
+                                                <li><a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1873" 
+	                                                	   onclick="pageTracker._trackPageview('dp_search_bizzone_keyword_wuhan');document.hippo.ext({index:'4',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1873',title:'徐东大街'}).mv('module','1_bizzonenav_0');"
+                                                           class="D">
+	                                                        徐东大街&nbsp;<span class="num">(1)</span>
+                                                    </a>
+                                                </li>
+                                                <li><a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1887" 
+	                                                	   onclick="pageTracker._trackPageview('dp_search_bizzone_keyword_wuhan');document.hippo.ext({index:'5',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1887',title:'石牌岭/街道口'}).mv('module','1_bizzonenav_0');"
+                                                           class="D">
+	                                                        石牌岭/街道口&nbsp;<span class="num">(3)</span>
+                                                    </a>
+                                                </li>
+                                                <li><a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r8181" 
+	                                                	   onclick="pageTracker._trackPageview('dp_search_bizzone_keyword_wuhan');document.hippo.ext({index:'6',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r8181',title:'卓刀泉'}).mv('module','1_bizzonenav_0');"
+                                                           class="D">
+	                                                        卓刀泉&nbsp;<span class="num">(1)</span>
+                                                    </a>
+                                                </li>
+                                                <li><a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r4551" 
+	                                                	   onclick="pageTracker._trackPageview('dp_search_bizzone_keyword_wuhan');document.hippo.ext({index:'7',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r4551',title:'江夏区'}).mv('module','1_bizzonenav_0');"
+                                                           class="D">
+	                                                        江夏区&nbsp;<span class="num">(47)</span>
+                                                    </a>
+                                                </li>
+                                                <li><a href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1877" 
+	                                                	   onclick="pageTracker._trackPageview('dp_search_bizzone_keyword_wuhan');document.hippo.ext({index:'8',action:'click',type:'r0',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/r1877',title:'古田路'}).mv('module','1_bizzonenav_0');"
+                                                           class="D">
+	                                                        古田路&nbsp;<span class="num">(2)</span>
+                                                    </a>
+                                                </li>
+                                    </ul>
+                                </li>
+                            </ul>
+
+                            </li>
+                        </ul>
+
+			    <ul class="navBlock shopfilter_{filterNavBean.filterEnName}">
+            <li>
+                <ul class="bigCurrent">
+                    <li><strong>优惠类型</strong></li>
+                    <li>
+                        <ul class="J_fold-wrap">
+                                <li>
+                                    <a class="D" href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/m3"
+                                       onclick="pageTracker._trackPageview('dp_search_all_discount1_keyword_wuhan');document.hippo.ext({index:'1',action:'click',type:'m3',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/m3',title:'有团购'}).mv('module','1_discountnav_0');">有团购&nbsp;<span class="num"
+                                            >(148)</span></a>
+                                </li>
+                                
+                                <li>
+                                    <a class="D" href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/m1"
+                                       onclick="pageTracker._trackPageview('dp_search_all_discount2_keyword_wuhan');document.hippo.ext({index:'2',action:'click',type:'m1',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/m1',title:'有优惠券'}).mv('module','1_discountnav_0');">有优惠券&nbsp;<span class="num"
+                                            >(18)</span></a>
+                                </li>
+                                
+                                <li>
+                                    <a class="D" href="/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/m4"
+                                       onclick="pageTracker._trackPageview('dp_search_all_discount3_keyword_wuhan');document.hippo.ext({index:'3',action:'click',type:'m4',content:'/search/keyword/16/0_%E5%85%89%E8%B0%B7%E7%BE%8E%E9%A3%9F/m4',title:'电子会员卡'}).mv('module','1_discountnav_0');">电子会员卡&nbsp;<span class="num"
+                                            >(33)</span></a>
+                                </li>
+                                
+                           
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+    </ul>
+
+        </div>
+		<!--Start505ModuleID--><p><a onclick="pageTracker._trackPageview('dp_shanghai_search_c_leftbanner');" href="http://www.dianping.com/Redirect/4048" target="_blank"><img alt="周边快查" src="http://i1.dpfile.com/cms/20121011/622012436614.jpg"></a></p><!--End505ModuleID-->
+<!--Start1049ModuleID--><p><a onclick="pageTracker._trackPageview('dp_quanguo_search_c_weekly');" href="http://www.dianping.com/c/gonglue0115.html" target="_blank"><img alt="点评攻略" src="http://i1.dpfile.com/cms/20130428/424328536250.jpg"></a></p><!--End1049ModuleID-->
+
+    </div>
+    <div class="aside aside-right" id="asideR">
+		
+<div class="J_mkt-group-2"></div>
+<div id="mylist"></div>
+
+<div class="J_tg-content" data-url="http://t.dianping.com/jsonp/related_deals?cityId=16&keyword=光谷美食&categoryId=0&regionId=0"></div>
+<div class="J_mkt-group-3"></div>
+
+		<div><span class="irss"></span><a href="/rss/search/16/0/0/0/光谷美食" target="_blank" class="B">feed: rss 2.0</a></div>
+
+    </div>
+</div>
+
+<div class="footer footer-static">
+  <div class="tuan-nav" style="display:none">
+    <dl>
+      <dt>华北东北：</dt>
+      <dd>
+      <a href="http://t.dianping.com/beijing" target="_blank">北京团购</a><a href="http://t.dianping.com/tianjin" target="_blank">天津团购</a><a href="http://t.dianping.com/shenyang" target="_blank">沈阳团购</a><a href="http://t.dianping.com/dalian" target="_blank">大连团购</a><a href="http://t.dianping.com/changchun" target="_blank">长春团购</a><a href="http://t.dianping.com/haerbin" target="_blank">哈尔滨团购</a><a href="http://t.dianping.com/shijiazhuang" target="_blank">石家庄团购</a><a href="http://t.dianping.com/taiyuan" target="_blank">太原团购</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt>华东地区：</dt>
+      <dd>
+      <a href="http://t.dianping.com/shanghai" target="_blank">上海团购</a><a href="http://t.dianping.com/hangzhou" target="_blank">杭州团购</a><a href="http://t.dianping.com/nanjing" target="_blank">南京团购</a><a href="http://t.dianping.com/suzhou" target="_blank">苏州团购</a><a href="http://t.dianping.com/wuxi" target="_blank">无锡团购</a><a href="http://t.dianping.com/changzhou" target="_blank">常州团购</a><a href="http://t.dianping.com/jinan" target="_blank">济南团购</a><a href="http://t.dianping.com/xiamen" target="_blank">厦门团购</a><a href="http://t.dianping.com/ningbo" target="_blank">宁波团购</a><a href="http://t.dianping.com/fuzhou" target="_blank">福州团购</a><a href="http://t.dianping.com/qingdao" target="_blank">青岛团购</a><a href="http://t.dianping.com/hefei" target="_blank">合肥团购</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt>中部西部：</dt>
+      <dd>
+      <a href="http://t.dianping.com/wuhan" target="_blank">武汉团购</a><a href="http://t.dianping.com/zhengzhou" target="_blank">郑州团购</a><a href="http://t.dianping.com/changsha" target="_blank">长沙团购</a><a href="http://t.dianping.com/nanchang" target="_blank">南昌团购</a><a href="http://t.dianping.com/chengdu" target="_blank">成都团购</a><a href="http://t.dianping.com/chongqing" target="_blank">重庆团购</a><a href="http://t.dianping.com/xian" target="_blank">西安团购</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt>华南地区：</dt>
+      <dd>
+      <a href="http://t.dianping.com/guangzhou" target="_blank">广州团购</a><a href="http://t.dianping.com/shenzhen" target="_blank">深圳团购</a><a href="http://t.dianping.com/dongguan" target="_blank">东莞团购</a>
+      </dd>
+    </dl>
+    <p class="note"><a href="http://t.dianping.com/subscribe/future" target="_blank">没有你的城市？</a></p>
+  </div>
+
+  <ul>
+    <li><a target="_blank" href="http://www.dianping.com/aboutus" rel="nofollow">关于大众点评</a>|</li>
+    <li><a target="_blank" href="http://s.dianping.com/topic/2815561" rel="nofollow">诚信公约</a>|</li>
+    <li><a target="_blank" href="http://www.dianping.com/help" rel="nofollow">网站帮助</a>|</li>
+    <li><a target="_blank" href="http://www.dianping.com/business/" rel="nofollow">推广服务</a>|</li>
+    <li><a target="_blank" href="http://www.dianping.com/aboutus/media" rel="nofollow">媒体报道</a>|</li>
+    <li><a target="_blank" href="http://careers.dianping.com" rel="nofollow">人才招聘</a>|</li>
+    <li><a target="_blank" href="http://www.dianping.com/forum" rel="nofollow">站务论坛</a>|</li>
+    <li><a target="_blank" href="http://www.dianping.com/contactus" rel="nofollow">联系我们</a>|</li>
+    <li><a target="_blank" href="http://developer.dianping.com" rel="nofollow">开发者</a>|</li>
+    <li class="fn-tuan"><a href="javascript:;" onclick="return false;">点评团</a></li>
+  </ul>      
+  <p>&copy;2003-2013 dianping.com, All Rights Reserved.　　本站发布的所有内容，未经许可，不得转载，详见<a href="http://www.dianping.com/aboutus/zhishichanquan.html" rel="nofollow">《知识产权声明》</a>。</p>      
+</div>
+<script class="J_auto-load" type="text/plain">
+	<div class="pop-panel pp_location" id="G_loc-panel" data-target="#G_loc-wrap">
+		<dl>
+			<dt>华北东北:</dt>
+			<dd>
+				<ul class="Fix">
+						<li><a href="http://www.dianping.com/beijing"  onclick="pageTracker._trackPageview('dp_head_hotcity_beijing');">北京</a></li>
+						<li><a href="http://www.dianping.com/tianjin"  onclick="pageTracker._trackPageview('dp_head_hotcity_tianjin');">天津</a></li>
+						<li><a href="http://www.dianping.com/shenyang"  onclick="pageTracker._trackPageview('dp_head_hotcity_shenyang');">沈阳</a></li>
+						<li><a href="http://www.dianping.com/dalian"  onclick="pageTracker._trackPageview('dp_head_hotcity_dalian');">大连</a></li>
+						<li><a href="http://www.dianping.com/changchun"  onclick="pageTracker._trackPageview('dp_head_hotcity_changchun');">长春</a></li>
+						<li><a href="http://www.dianping.com/haerbin"  onclick="pageTracker._trackPageview('dp_head_hotcity_haerbin');">哈尔滨</a></li>
+						<li><a href="http://www.dianping.com/shijiazhuang"  onclick="pageTracker._trackPageview('dp_head_hotcity_shijiazhuang');">石家庄</a></li>
+						<li><a href="http://www.dianping.com/taiyuan"  onclick="pageTracker._trackPageview('dp_head_hotcity_taiyuan');">太原</a></li>
+						<li><a href="http://www.dianping.com/huhehaote"  onclick="pageTracker._trackPageview('dp_head_hotcity_huhehaote');">呼和浩特</a></li>
+				</ul>
+			</dd>
+		</dl>
+		<dl>
+			<dt>华东地区:</dt>
+			<dd>
+				<ul class="Fix">
+						<li><a href="http://www.dianping.com/shanghai"  onclick="pageTracker._trackPageview('dp_head_hotcity_shanghai');">上海</a></li>
+						<li><a href="http://www.dianping.com/hangzhou"  onclick="pageTracker._trackPageview('dp_head_hotcity_hangzhou');">杭州</a></li>
+						<li><a href="http://www.dianping.com/nanjing"  onclick="pageTracker._trackPageview('dp_head_hotcity_nanjing');">南京</a></li>
+						<li><a href="http://www.dianping.com/suzhou"  onclick="pageTracker._trackPageview('dp_head_hotcity_suzhou');">苏州</a></li>
+						<li><a href="http://www.dianping.com/wuxi"  onclick="pageTracker._trackPageview('dp_head_hotcity_wuxi');">无锡</a></li>
+						<li><a href="http://www.dianping.com/jinan"  onclick="pageTracker._trackPageview('dp_head_hotcity_jinan');">济南</a></li>
+						<li><a href="http://www.dianping.com/xiamen"  onclick="pageTracker._trackPageview('dp_head_hotcity_xiamen');">厦门</a></li>
+						<li><a href="http://www.dianping.com/ningbo"  onclick="pageTracker._trackPageview('dp_head_hotcity_ningbo');">宁波</a></li>
+						<li><a href="http://www.dianping.com/fuzhou"  onclick="pageTracker._trackPageview('dp_head_hotcity_fuzhou');">福州</a></li>
+						<li><a href="http://www.dianping.com/qingdao"  onclick="pageTracker._trackPageview('dp_head_hotcity_qingdao');">青岛</a></li>
+						<li><a href="http://www.dianping.com/hefei"  onclick="pageTracker._trackPageview('dp_head_hotcity_hefei');">合肥</a></li>
+						<li><a href="http://www.dianping.com/changzhou"  onclick="pageTracker._trackPageview('dp_head_hotcity_changzhou');">常州</a></li>
+				</ul>
+			</dd>
+		</dl>
+		<dl>
+			<dt>中部西部:</dt>
+			<dd>
+				<ul class="Fix">
+						<li><a href="http://www.dianping.com/wuhan"  onclick="pageTracker._trackPageview('dp_head_hotcity_wuhan');">武汉</a></li>
+						<li><a href="http://www.dianping.com/zhengzhou"  onclick="pageTracker._trackPageview('dp_head_hotcity_zhengzhou');">郑州</a></li>
+						<li><a href="http://www.dianping.com/changsha"  onclick="pageTracker._trackPageview('dp_head_hotcity_changsha');">长沙</a></li>
+						<li><a href="http://www.dianping.com/nanchang"  onclick="pageTracker._trackPageview('dp_head_hotcity_nanchang');">南昌</a></li>
+						<li><a href="http://www.dianping.com/guiyang"  onclick="pageTracker._trackPageview('dp_head_hotcity_guiyang');">贵阳</a></li>
+						<li><a href="http://www.dianping.com/xining"  onclick="pageTracker._trackPageview('dp_head_hotcity_xining');">西宁</a></li>
+						<li><a href="http://www.dianping.com/chengdu"  onclick="pageTracker._trackPageview('dp_head_hotcity_chengdu');">成都</a></li>
+						<li><a href="http://www.dianping.com/chongqing"  onclick="pageTracker._trackPageview('dp_head_hotcity_chongqing');">重庆</a></li>
+						<li><a href="http://www.dianping.com/xian"  onclick="pageTracker._trackPageview('dp_head_hotcity_xian');">西安</a></li>
+						<li><a href="http://www.dianping.com/kunming"  onclick="pageTracker._trackPageview('dp_head_hotcity_kunming');">昆明</a></li>
+						<li><a href="http://www.dianping.com/lanzhou"  onclick="pageTracker._trackPageview('dp_head_hotcity_lanzhou');">兰州</a></li>
+						<li><a href="http://www.dianping.com/wulumuqi"  onclick="pageTracker._trackPageview('dp_head_hotcity_wulumuqi');">乌鲁木齐</a></li>
+				</ul>
+			</dd>
+		</dl>
+		<dl>
+			<dt>华南地区:</dt>
+			<dd>
+				<ul class="Fix">
+						<li><a href="http://www.dianping.com/guangzhou"  onclick="pageTracker._trackPageview('dp_head_hotcity_guangzhou');">广州</a></li>
+						<li><a href="http://www.dianping.com/shenzhen"  onclick="pageTracker._trackPageview('dp_head_hotcity_shenzhen');">深圳</a></li>
+						<li><a href="http://www.dianping.com/hongkong"  onclick="pageTracker._trackPageview('dp_head_hotcity_hongkong');">香港</a></li>
+						<li><a href="http://www.dianping.com/foshan"  onclick="pageTracker._trackPageview('dp_head_hotcity_foshan');">佛山</a></li>
+						<li><a href="http://www.dianping.com/zhuhai"  onclick="pageTracker._trackPageview('dp_head_hotcity_zhuhai');">珠海</a></li>
+						<li><a href="http://www.dianping.com/dongguan"  onclick="pageTracker._trackPageview('dp_head_hotcity_dongguan');">东莞</a></li>
+						<li><a href="http://www.dianping.com/sanya"  onclick="pageTracker._trackPageview('dp_head_hotcity_sanya');">三亚</a></li>
+						<li><a href="http://www.dianping.com/haikou"  onclick="pageTracker._trackPageview('dp_head_hotcity_haikou');">海口</a></li>
+						<li><a href="http://www.dianping.com/macao"  onclick="pageTracker._trackPageview('dp_head_hotcity_macao');">澳门</a></li>
+						<li><a href="http://www.dianping.com/nanning"  onclick="pageTracker._trackPageview('dp_head_hotcity_nanning');">南宁</a></li>
+						<li><a href="http://www.dianping.com/taiwan"  onclick="pageTracker._trackPageview('dp_head_hotcity_taiwan');">台湾</a></li>
+				</ul>
+			</dd>
+		</dl>
+		<dl>
+			<dt>国外地区:</dt>
+			<dd>
+				<ul class="Fix">
+						<li><a href="http://www.dianping.com/singapore"  onclick="pageTracker._trackPageview('dp_head_hotcity_singapore');">新加坡</a></li>
+						<li><a href="http://www.dianping.com/thailand"  onclick="pageTracker._trackPageview('dp_head_hotcity_thailand');">泰国</a></li>
+						<li><a href="http://www.dianping.com/korea"  onclick="pageTracker._trackPageview('dp_head_hotcity_korea');">韩国</a></li>
+						<li><a href="http://www.dianping.com/australia"  onclick="pageTracker._trackPageview('dp_head_hotcity_australia');">澳大利亚</a></li>
+				</ul>
+			</dd>
+		</dl>
+		<div class="Fix"><a href="http://www.dianping.com/citylist" class="more"  onclick="pageTracker._trackPageview('dp_head_othercity_wuhan');">更多城市</a></div>
+	</div>
+	<ul id="G_s-cate-panel" class="pop-panel pp_search-range" data-target="#G_s-wrap">
+			<li><a data-s-cateid="0" data-s-cityid="16"  onclick="pageTracker._trackPageview('dp_head_keyword_choice_wuhan');" href="#">全部</a></li>
+				<li><a data-s-cateid="10"  onclick="pageTracker._trackPageview('dp_head_keyword_choice_wuhan');" data-s-cityid="16" href="#">美食</a></li>
+				<li><a data-s-cateid="20"  onclick="pageTracker._trackPageview('dp_head_keyword_choice_wuhan');" data-s-cityid="16" href="#">购物</a></li>
+				<li><a data-s-cateid="30"  onclick="pageTracker._trackPageview('dp_head_keyword_choice_wuhan');" data-s-cityid="16" href="#">休闲娱乐</a></li>
+				<li><a data-s-cateid="50"  onclick="pageTracker._trackPageview('dp_head_keyword_choice_wuhan');" data-s-cityid="16" href="#">丽人</a></li>
+				<li><a data-s-cateid="55"  onclick="pageTracker._trackPageview('dp_head_keyword_choice_wuhan');" data-s-cityid="16" href="#">结婚</a></li>
+				<li><a data-s-cateid="45"  onclick="pageTracker._trackPageview('dp_head_keyword_choice_wuhan');" data-s-cityid="16" href="#">运动健身</a></li>
+				<li><a data-s-cateid="60"  onclick="pageTracker._trackPageview('dp_head_keyword_choice_wuhan');" data-s-cityid="16" href="#">酒店</a></li>
+				<li><a data-s-cateid="80"  onclick="pageTracker._trackPageview('dp_head_keyword_choice_wuhan');" data-s-cityid="16" href="#">生活服务</a></li>
+	</ul>
+<ul id="G_chan-panel" class="pop-panel pp_channels Fix" data-target="#G_nav-bar">
+	<li class="root-item">
+		<a href="http://www.dianping.com/wuhan/food"  onclick="pageTracker._trackPageview('dp_head_wuhan_food');" class="root-name"><span>美食</span></a>
+		<ul class="pop-panel Fix sub-list">
+			<li class="main-cate"><a href="http://www.dianping.com/wuhan/food"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_index');">美食频道</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g246"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei1');" alt="" class="null">湖北菜</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g102"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei2');" alt="" class="null">川菜</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g104"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei3');" alt="" class="null">湘菜</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g103"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei4');" alt="" class="null">粤菜</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g110"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei5');" alt="" class="null">火锅</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g251"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei6');" alt="" class="null">海鲜</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g508"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei7');" alt="" class="null">烧烤</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g112"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei8');" alt="" class="null">小吃快餐</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g469"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei9');" alt="" class="null">日韩料理</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g115"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei10');" alt="" class="null">东南亚菜</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g116"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei11');" alt="" class="null">西餐</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g111"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei12');" alt="" class="null">自助餐</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g117"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei13');" alt="" class="null">面包甜点</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/10/g118"  onclick="pageTracker._trackPageview('dp_head_wuhan_food_fenlei14');" alt="" class="null">其他</a></li>
+		</ul>
+	</li>
+	<li class="root-item">
+		<a href="http://www.dianping.com/wuhan/shopping"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping');" class="root-name"><span>购物</span></a>
+		<ul class="pop-panel Fix sub-list">
+			<li class="main-cate"><a href="http://www.dianping.com/wuhan/shopping"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_index');">购物频道</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g119"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei1');" alt="" class="null">综合商场</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g184"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei2');" alt="" class="null">食品茶酒</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g187"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei3');" alt="" class="null">超市/便利店</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g120"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei4');" alt="" class="null">服饰鞋包</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g122"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei5');" alt="" class="null">珠宝饰品</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g123"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei6');" alt="" class="null">化妆品</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g121"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei7');" alt="" class="null">运动户外</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g125"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei8');" alt="" class="null">母婴儿童</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g124"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei9');" alt="" class="null">数码家电</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g126"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei10');" alt="" class="null">家具家居</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g129"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei11');" alt="" class="null">特色集市</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g127"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei12');" alt="" class="null">书店</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g128"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei13');" alt="" class="null">眼镜店</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g235"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei14');" alt="" class="null">药店</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/20/g131"  onclick="pageTracker._trackPageview('dp_head_wuhan_shopping_fenlei15');" alt="" class="null">更多购物场所</a></li>
+		</ul>
+	</li>
+	<li class="root-item">
+		<a href="http://www.dianping.com/wuhan/life"  onclick="pageTracker._trackPageview('dp_head_wuhan_life');" class="root-name"><span>休闲娱乐</span></a>
+		<ul class="pop-panel Fix sub-list">
+			<li class="main-cate"><a href="http://www.dianping.com/wuhan/life"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_index');">休闲娱乐频道</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g132"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei1');" alt="" class="null">咖啡厅</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g133"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei2');" alt="" class="null">酒吧</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g134"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei3');" alt="" class="null">茶馆</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g135"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei4');" alt="" class="null">KTV</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g136"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei5');" alt="" class="null">电影院</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g142"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei6');" alt="" class="null">文化艺术</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g139"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei7');" alt="" class="null">景点/郊游</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g138"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei8');" alt="" class="null">公园</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g141"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei9');" alt="" class="null">足疗按摩</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g140"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei10');" alt="" class="null">洗浴</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g137"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei11');" alt="" class="null">游乐游艺</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g6694"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei12');" alt="" class="null">桌面游戏</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g156"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei13');" alt="" class="null">台球室</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/30/g26490"  onclick="pageTracker._trackPageview('dp_head_wuhan_life_fenlei14');" alt="" class="null">更多休闲娱乐</a></li>
+		</ul>
+	</li>
+	<li class="root-item">
+		<a href="http://www.dianping.com/wuhan/beauty"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty');" class="root-name"><span>丽人</span></a>
+		<ul class="pop-panel Fix sub-list">
+			<li class="main-cate"><a href="http://www.dianping.com/wuhan/beauty"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty_index');">丽人频道</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/50/g157"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty_fenlei1');" alt="" class="null">美发</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/50/g158"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty_fenlei2');" alt="" class="null">美容/SPA</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/50/g123"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty_fenlei3');" alt="" class="null">化妆品</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/50/g159"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty_fenlei4');" alt="" class="null">瘦身纤体</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/50/g160"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty_fenlei5');" alt="" class="null">美甲</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/50/g148"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty_fenlei6');" alt="" class="null">瑜伽</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/50/g149"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty_fenlei7');" alt="" class="null">舞蹈</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/50/g6700"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty_fenlei8');" alt="" class="null">个性写真</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/50/g183"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty_fenlei9');" alt="" class="null">整形</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/50/g182"  onclick="pageTracker._trackPageview('dp_head_wuhan_beauty_fenlei10');" alt="" class="null">齿科</a></li>
+		</ul>
+	</li>
+	<li class="root-item">
+		<a href="http://www.dianping.com/wuhan/wedding"  onclick="pageTracker._trackPageview('dp_head_wuhan_wedding');" class="root-name"><span>结婚</span></a>
+		<ul class="pop-panel Fix sub-list">
+			<li class="main-cate"><a href="http://www.dianping.com/wuhan/wedding"  onclick="pageTracker._trackPageview('dp_head_wuhan_wedding_index');">结婚频道</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/55/g163"  onclick="pageTracker._trackPageview('dp_head_wuhan_wedding_fenlei1');" alt="" class="null">婚纱摄影</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/55/g165"  onclick="pageTracker._trackPageview('dp_head_wuhan_wedding_fenlei2');" alt="" class="null">婚宴酒店</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/55/g191"  onclick="pageTracker._trackPageview('dp_head_wuhan_wedding_fenlei3');" alt="" class="null">婚戒首饰</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/55/g162"  onclick="pageTracker._trackPageview('dp_head_wuhan_wedding_fenlei4');" alt="" class="null">婚纱礼服</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/55/g167"  onclick="pageTracker._trackPageview('dp_head_wuhan_wedding_fenlei5');" alt="" class="null">婚庆公司</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/55/g166"  onclick="pageTracker._trackPageview('dp_head_wuhan_wedding_fenlei6');" alt="" class="null">彩妆造型</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/55/g6844"  onclick="pageTracker._trackPageview('dp_head_wuhan_wedding_fenlei7');" alt="" class="null">更多婚礼服务</a></li>
+		</ul>
+	</li>
+	<li class="root-item">
+		<a href="http://www.dianping.com/wuhan/sports"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports');" class="root-name"><span>运动健身</span></a>
+		<ul class="pop-panel Fix sub-list">
+			<li class="main-cate"><a href="http://www.dianping.com/wuhan/sports"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_index');">运动健身频道</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g147"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei1');" alt="" class="null">健身中心</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g151"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei2');" alt="" class="null">游泳馆</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g148"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei3');" alt="" class="null">瑜伽</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g152"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei4');" alt="" class="null">羽毛球馆</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g6712"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei5');" alt="" class="null">乒乓球馆</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g153"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei6');" alt="" class="null">网球场</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g146"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei7');" alt="" class="null">篮球场</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g6702"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei8');" alt="" class="null">足球场</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g154"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei9');" alt="" class="null">高尔夫场</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g155"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei10');" alt="" class="null">保龄球馆</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g156"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei11');" alt="" class="null">台球室</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g149"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei12');" alt="" class="null">舞蹈</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g6701"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei13');" alt="" class="null">武术场馆</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g150"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei14');" alt="" class="null">体育场馆</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/45/g145"  onclick="pageTracker._trackPageview('dp_head_wuhan_sports_fenlei15');" alt="" class="null">更多运动场馆</a></li>
+		</ul>
+	</li>
+	<li class="root-item">
+		<a href="http://www.dianping.com/wuhan/hotel"  onclick="pageTracker._trackPageview('dp_head_wuhan_hotel');" class="root-name"><span>酒店</span></a>
+		<ul class="pop-panel Fix sub-list">
+			<li class="main-cate"><a href="http://www.dianping.com/wuhan/hotel"  onclick="pageTracker._trackPageview('dp_head_wuhan_hotel_index');">酒店频道</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/60/g168"  onclick="pageTracker._trackPageview('dp_head_wuhan_hotel_fenlei1');" alt="" class="null">五星级酒店</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/60/g169"  onclick="pageTracker._trackPageview('dp_head_wuhan_hotel_fenlei2');" alt="" class="null">四星级酒店</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/60/g170"  onclick="pageTracker._trackPageview('dp_head_wuhan_hotel_fenlei3');" alt="" class="null">三星级酒店</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/60/g171"  onclick="pageTracker._trackPageview('dp_head_wuhan_hotel_fenlei4');" alt="" class="null">经济型酒店</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/60/g6693"  onclick="pageTracker._trackPageview('dp_head_wuhan_hotel_fenlei5');" alt="" class="null">公寓式酒店</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/60/g173"  onclick="pageTracker._trackPageview('dp_head_wuhan_hotel_fenlei6');" alt="" class="null">度假村</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/60/g174"  onclick="pageTracker._trackPageview('dp_head_wuhan_hotel_fenlei7');" alt="" class="null">更多酒店住宿</a></li>
+		</ul>
+	</li>
+	<li class="root-item">
+		<a href="http://www.dianping.com/wuhan/other"  onclick="pageTracker._trackPageview('dp_head_wuhan_other');" class="root-name"><span>生活服务</span></a>
+		<ul class="pop-panel Fix sub-list">
+			<li class="main-cate"><a href="http://www.dianping.com/wuhan/other"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_index');">生活服务频道</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g197"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei1');" alt="" class="null">旅行社</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g194"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei2');" alt="" class="null">宠物</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g182"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei3');" alt="" class="null">齿科</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g181"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei4');" alt="" class="null">医院</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g260"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei5');" alt="" class="null">学校</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g196"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei6');" alt="" class="null">培训</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g27813"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei7');" alt="" class="null">儿童摄影</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g4607"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei8');" alt="" class="null">快照/冲印</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g5240"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei9');" alt="" class="null">汽车服务</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g6120"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei10');" alt="" class="null">干洗店</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g5146"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei11');" alt="" class="null">公交车</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g180"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei12');" alt="" class="null">停车场</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g236"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei13');" alt="" class="null">加油站</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g237"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei14');" alt="" class="null">银行</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g26119"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei15');" alt="" class="null">团购网站</a></li>
+			<li><a href="http://www.dianping.com/search/category/16/80/g26491"  onclick="pageTracker._trackPageview('dp_head_wuhan_other_fenlei16');" alt="" class="null">更多生活服务</a></li>
+		</ul>
+	</li>
+</ul>
+</script>
+<script>
+var __loaderConfig={appBase:'s/j/app/',libBase:'lib/1.0/',server:'i{n}.dpfile.com'};
+</script>
+<script src="http://i1.dpfile.com/lib/1.0/neuron-active.min.8baf626bdc0ab3e655066c3e4373fdde.js"></script><script>DP.data({cityEnName:'wuhan'});DP.load("http://i3.dpfile.com/x_x/version.min.v1376038735976.js");DP.require('Main::header');DP.load('http://i1.dpfile.com/s/res/ga.min.bd65c7c2a3a896ef5903739c021bb277.js');</script>
+<script>DP.ready(function(){；});</script>
+<script type="text/javascript">
+    DP.data({
+        cityID:     16,
+        cityEnName: 'wuhan',
+        regionID:   0,
+        categoryID: 0,
+        keyword:    '\u5149\u8C37\u7F8E\u98DF',
+        shopType:   0,
+        shopTypeEnName:'all',
+        shopIDs:    [8996649,2013646,4182066,3656704,8981691,4277135,3450088,8961427,5505744,5771728,1946332,2799133,6208477,6357055,568519],
+        regionIDs:  [],
+        cateIDs:    [],
+        primaryTags:[],
+        adKIDs:     '',
+        userID:     0,
+    	noResult:   false
+    });
+
+    DP.require('Main::tg-content',{
+        mod:'search::search'
+    },{
+        mod: 'main::mkt',
+        config: {
+            query: {
+                pageId: 1,
+                cityId: 16,
+                shopType: 0,
+                categoryId: 0,
+                regionId: 0,
+                keyword: '\u5149\u8C37\u7F8E\u98DF'
+            },
+            server: '/mkt/ajax/getNewItems',
+            request_type: 'ajax'
+        }
+    });
+</script>
+<script type="text/javascript" id="ga-conductor" data-pagekey="info-search" data-city="wuhan" data-keyword_="keyword_" data-searchtype="keyword" data-searchmode="keyword" data-channel="all" src="http://i2.dpfile.com/s/j/app/main/conductor.min.e365e860520fc8172ea29b0c25daa307.js"></script><script>
+
+pageTracker._trackPageview("dp_head_wuhan");
+pageTracker._trackPageview("dp_tongji_wuhan");
+
+$pi={"cid":16,"cn":"wuhan","nid":999,"rc":0,"nn":"Index"};</script>
+<script type="text/javascript">var $pei={"w":"50.1666(rpc:22.8136)","s":"locked","c":"locked\r\n","q":"locked","i":"132"}</script>
+</body>
+</html>
+None
